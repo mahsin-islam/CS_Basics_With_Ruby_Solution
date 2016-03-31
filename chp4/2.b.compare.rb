@@ -1,6 +1,6 @@
-# 1. Prompt the user for an integer and test if it’s even or odd. Consider using the way
-# Ruby rounds operations on integers when appropriate. Save this program in a file
-# called compare.rb.
+# 2. b. Prompts the user for an integer between 5 and 10 and then informs the user if
+#       the integer was below the range, in the range, or above the range. Implement
+#       this using a case statement.
 
 puts "Enter a number"
 
