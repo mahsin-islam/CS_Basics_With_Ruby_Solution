@@ -6,5 +6,5 @@ Gratually solving Computer Science Programming Basics With Ruby exercise problem
 
 
 <br>
-![alt text](https://github.com/mahsin-islam/CS_Basics_With_Ruby_Solution/cs.jpg)
+![alt text](http://mahsin-islam.github.io/Touch-Slider-MediaBrix-HammerJs/assets/cs.jpg)
 <br>
